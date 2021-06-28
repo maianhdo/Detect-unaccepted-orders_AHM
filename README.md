@@ -1,1 +1,3 @@
 # Detect-unaccepted-orders_AHM
+
+This is a project that I worked on when I was at my old company. The company connects customers who demand prompt good shipping and experienced driver in just a few click via a mobile app. One question the company faced was how to detect shipping orders that tend to be unaccepted to assign these unaccpeted orders for proper drivers to avoid order cancellation. There would be a small amount of orders that have specific features such as too long shipping distance,.. that just a few drivers are willing to accept and ship these kinds of orders. By doing this project, the customers would not need to wait for a long time to dinf a driver then end up finding no one to ship their goods and the drivers would have more chance to earn money. 
